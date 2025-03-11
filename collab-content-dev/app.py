@@ -52,7 +52,7 @@ quill_content = st_quill(value=extracted_text, placeholder="Edit here...")
 
 if st.button("💾 Save to GitHub"):
     timestamp = time.strftime("%Y%m%d-%H%M%S")
-    filename = f"saved_content_{timestamp}.txt"
+    filename = f"uploads/saved_content_{timestamp}.txt"
 
     with open(filename, "w", encoding="utf-8") as f:
         f.write(quill_content)
