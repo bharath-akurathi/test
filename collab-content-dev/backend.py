@@ -62,6 +62,7 @@ def push_to_github(commit_message):
     except subprocess.CalledProcessError as e:
         print(f"❌ Git push failed: {e}")
 
+
 @app.route("/api/upload", methods=["POST"])
 def upload_file():
     if "file" not in request.files:

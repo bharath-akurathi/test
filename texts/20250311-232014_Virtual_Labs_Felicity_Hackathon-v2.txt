@@ -1,0 +1,287 @@
+Virtual Labs Introduction 
+Virtual Labs, a Ministry of Education project under NMEICT, offers free remote laboratory 
+learning experiences. Workshops and nodal centers support institute partnerships within the 
+Virtual Labs consortium. The project, led by IIT Delhi and involving twelve institutes, provides 
+over 100 Virtual Labs and 700+ web-enabled experiments across various domains using 
+open-source technologies. These simulations are accessible online without any additional 
+infrastructure or fees. 
+As a platform, Virtual Labs offers a collection of interactive experiments designed for 
+engineering students in Indian universities and institutions. These experiments are currently 
+presented as websites with interactive content aimed at enhancing learning outcomes. The 
+structure of each experiment follows principles of pedagogy, ensuring that the content effectively 
+supports learning objectives. You can explore examples of these experiments here. 
+Virtual Labs Impact 
+The Virtual Labs currently only reports usage data from Jan-2020 onwards. In the 5 years, 17 
+Million users have come to the Virtual Labs platform and have visited more than 120 Million 
+pages. 
+Virtual Labs Stakeholders 
+Following is the list of the primary stakeholders of Virtual Labs:​
+ 
+1.​ Students and Learners: Use the experiments with the objective of learning a topic 
+interactively. 
+2.​ Teachers and Educators: Use the experiments as part of their courses. 
+3.​ Experiment Developers: Develop experiments, which involves finding a gap area, 
+proposing and getting approval for an experiment and developing the content for the 
+experiment 
+4.​ Subject Matter Experts(SME): Provide subject-matter expertise to the experiment 
+developers 
+5.​ Outreach Team: Promote the use of Virtual Labs in all the institutes in a specific 
+geographical region 
+6.​ Nodal Centers: Promote the use of Virtual Labs in their respective institutes 
+7.​ VLEAD Team: Develops and operates all technology related aspects of the Virtual Labs 
+platform including infrastructure, operations, tools development etc. Please check here 
+to know more about VLEAD 
+
+Stakeholder Engagement Initiatives 
+Apart from the content, Virtual Labs offers a variety of tools for the various stakeholders to 
+engage with the Virtual Labs ecosystem. Some of the popular tools are:​
+ 
+Target Stakeholders 
+Tools 
+Learners 
+Bug report 
+Rating 
+Feedback 
+Experiment Developers 
+Virtual Labs VS Code Extension 
+GenAI based Issue Classifier 
+Performance Analysis tool 
+Code and Configuration Validation tool 
+All 
+Virtual Labs Analytics Report 
+Outreach Team 
+Workshop Feedback Reporting Tool 
+Please go here to learn more about the engagement initiatives started by VLEAD. 
+Please visit the VLEAD website to understand the complete Virtual Labs ecosystem. 
+Sample Experiments 
+1.​ Bubble Sort Experiment - IIIT Hyderabad 
+2.​ Digital Electronics Experiment - IIT Roorkee 
+ 
+
+Problem Statement 1:  
+Virtual Labs: Enhance User Experience to Increase 
+User Engagement 
+Summary: 
+The Virtual Labs platform, serving over 17 million users, requires a modern UI overhaul to 
+enhance user engagement and accessibility. Participants must redesign the interface with a 
+contemporary aesthetic, improve usability on mobile devices, simplify navigation, and explore 
+cutting-edge browser and mobile OS features (e.g., sensors, JS APIs) to create a more 
+interactive and intuitive user experience. Solutions should include a functional prototype, 
+justification with engagement metrics, a detailed methodology report, and a working demo. 
+Submissions will be judged on design appeal, interactivity, responsiveness, innovation, and 
+feasibility. 
+Background: 
+The Virtual Labs user interface has stood the test of time by serving over 17 Million users in the 
+last 5 years. However, it is moving out of alignment with the modern user interface design 
+paradigms and as a result is becoming less intuitive for the new generation of users. The 
+primary problems of the current user interface are: 
+1.​ Lack of modern design aesthetics, making the platform appear outdated. 
+2.​ Poor mobile optimization, despite more than 50% of users accessing Virtual Labs on 
+mobile devices (analytics). 
+3.​ Complex navigation, requiring too many steps to access content efficiently. 
+Apart from the above issues, the participants are encouraged to use some of the sample 
+experiments themselves and find out more areas of improvement in the interface. 
+The structure of each experiment follows principles of pedagogy, ensuring that the content 
+effectively supports learning objectives. While the pedagogical sections are fixed, the UI design 
+and sequencing of these sections are open to innovation and improvement. 
+ 
+The Challenge:​
+Your task is to redesign the user interface for Virtual Labs experiments to make them more 
+appealing, engaging, and accessible to the target audience of engineering students. This 
+redesign should incorporate modern styling, cutting-edge interaction mechanisms, and 
+usability across devices. 
+
+You are free to use any tools available at your disposal including search engines and GenAI 
+chatbots, however, you are expected to disclose all the used tools and the method in which they 
+were used. 
+ 
+Key Design Objectives:​
+Redesign the Virtual Labs user interface to improve engagement, accessibility, and usability for 
+modern engineering students. The new design should integrate: 
+1.​ Minimalistic, Modern Styling: 
+○​ Implement contemporary design trends to create an engaging and professional 
+look. 
+2.​ Intuitive interaction mechanisms: 
+○​ Introduce interaction paradigms compatible with popular modern content 
+platforms and make navigation seamless. 
+3.​ Cross-Device Usability: 
+○​ Ensure that the redesigned interface functions seamlessly on devices of different 
+form factors, including desktops, tablets, and smartphones. 
+4.​ Advanced Capabilities: 
+○​ Utilize the latest browser and mobile OS features, such as modern JavaScript 
+APIs and mobile sensors, to enhance engagement. 
+○​ Extra Credit: Explore innovative uses of mobile sensors and JS APIs (e.g., 
+gyroscope, geolocation, accelerometer) for novel engagement approaches. 
+5.​ Personalization: 
+○​ Customize user interface without using authentication mechanisms 
+6.​ Accessibility: 
+○​ Incorporate principles of accessibility in the design​
+ 
+ 
+Expectations: 
+●​ Provide a redesigned UI prototype or proof-of-concept (PoC) demonstrating the 
+proposed enhancements. The design should cover all components of modern UI 
+including layouts, header/footer, navigation menu, buttons, pop-ups, labels etc 
+●​ Explain how your redesign improves user engagement and accessibility compared to the 
+existing UI. Quantify the metrics used and show a comparison of previous and proposed 
+designs 
+●​ Explain your approach and meticulously list all the resources used in order to arrive at 
+the solution. The resources will include, but are not limited to, website links, research 
+papers, surveys, search engine references, GenAI chatbot references and transcripts etc 
+●​ Highlight innovative features, uniqueness and completeness of your solution 
+
+ 
+ 
+Deliverables: 
+First Round: 
+●​ Presentation: A summary of the approach, solution, and justification. 
+FInal Round: 
+●​ UI Prototype or Proof-of-Concept (PoC): A redesigned interface covering all major 
+components (layouts, navigation, buttons, pop-ups, labels, etc.). 
+●​ Justification Report: A document explaining how the redesign improves user 
+engagement and accessibility, including quantified metrics comparing the old and new 
+UI. 
+●​ Methodology Documentation: A detailed list of all resources used, including research 
+papers, web links, GenAI chatbot interactions, and any other references. 
+●​ Presentation: A summary of the approach, solution, and justification. 
+●​ Demo: A functional implementation showcasing the redesign in action. 
+●​ All Artifacts: Including code, component designs, and related assets. 
+ 
+Evaluation Criteria:​
+Submissions will be judged on: 
+1.​ Aesthetic Appeal: The visual impact and modernity of the redesign. 
+2.​ Interactivity: How well the interface leverages advanced interaction mechanisms. 
+3.​ Responsiveness: Usability and adaptability across various devices and screen sizes. 
+4.​ Innovation: Creative use of cutting-edge browser or mobile OS features, with extra 
+credit for leveraging mobile sensors or advanced JS APIs. 
+5.​ Feasibility: Practicality of implementation within the Virtual Labs ecosystem. 
+ 
+Objective:​
+Reimagine the user experience of Virtual Labs experiments by designing an interface that 
+combines modern aesthetics, advanced interactions, and seamless usability. Empower 
+engineering students to engage more deeply with Virtual Labs experiments through an updated, 
+innovative UI. 
+ 
+
+Problem Statement 2:  
+Scaling Quality Content Creation for Virtual Labs 
+Summary:​
+ 
+The challenge is to design innovative solutions that streamline and scale the creation of 
+high-quality Virtual Labs experiments, making them more accessible, efficient, and engaging. 
+Currently, experiment development is constrained by the need for expertise in software 
+development, subject matter knowledge, and pedagogy, leading to slow production and high 
+costs. Participants must develop tools, frameworks, and/or processes that empower educators, 
+subject-matter experts (SMEs), and content developers to create experiments with minimal 
+dependence on other skill types. Solutions can leverage AI/ML, low-code/no-code platforms, 
+content repurposing, or collaborative resource pooling to enhance content generation speed, 
+diversity, and scalability while maintaining high educational value. 
+Background: 
+Virtual Labs is a repository of interactive educational experiments designed to enhance learning 
+for engineering students across India. The platform serves a vast and growing user base, but its 
+expansion is limited by the slow and resource-intensive process of creating high-quality 
+experiments. 
+Developing a single experiment requires expertise in software development, subject matter 
+knowledge, and pedagogy, making content creation a bottleneck. To maintain the quality and 
+effectiveness of experiments while increasing scale, speed, and diversity, new approaches 
+are needed to streamline the process and empower content creators with innovative tools and 
+workflows. 
+ 
+The Challenge:​
+Your task is to design innovative solutions that make it easier, faster, and more cost-effective 
+to create high-quality Virtual Labs experiments. The goal is to: 
+●​ Improve Quality: Enhance user engagement and learning outcomes. 
+●​ Increase Scale: Expand the number of experiments across diverse domains. 
+●​ Accelerate Development: Reduce the time required to create new experiments. 
+●​ Lower Costs: Make content creation more efficient as the platform scales. 
+●​ Ensure Diversity: Enable content creation across both engineering and 
+non-engineering subjects. 
+
+Solutions should focus on empowering content creators (educators, SMEs, and content 
+developers) by reducing their reliance on software development expertise and technical 
+resources. 
+ 
+ 
+Constraints and Resources: 
+●​ The subject-matter experts (SMEs) may not have software development expertise and 
+vice-versa. 
+●​ Scope: 
+○​ There are no constraints on the technology stack participants can use. 
+○​ The solution output must be compatible with web technologies (e.g., static or 
+dynamic web content). 
+○​ Solutions can cover any engineering domain without restriction. 
+●​ Resources Available: 
+○​ Virtual Labs experiments are built using an open-source framework, which is 
+available on GitHub. Participants can explore the repository to understand the 
+existing development process. 
+○​ Current experiments are hosted on AWS. Most are static websites hosted on 
+S3/CloudFront, while some dynamic experiments run on EC2 instances. 
+○​ Beyond the open-source framework, no API or database access is required in 
+order to understand the existing process. 
+○​ The VLEAD team has developed a set of tools to assist the content developers in 
+various phases of experiment development. It is important to go through them 
+and understand which solutions are already available in order to avoid duplicating 
+existing solutions. 
+ 
+Possible Solution Directions:​
+Here are some examples of approaches you can explore. These are suggestions, not 
+constraints, and are not exhaustive. Participants are encouraged to combine/include them in 
+their solutions or develop entirely new ideas: 
+1.​ Building collaborative resource pools of different skills: 
+○​ Build communities of people with different skill sets like software development, 
+subject-matter expertise and pedagogical expertise and define a mechanism for 
+smooth collaboration among them 
+2.​ Repurposing Existing Content: 
+○​ Create a framework to transform existing educational content (e.g., lecture notes, 
+course materials) into interactive experiments. Please bear in mind that it should 
+not involve plagiarism in any form. 
+
+3.​ AI/ML-Powered Tools: 
+○​ Use AI/ML to automate the conversion of web-scraped or pre-existing content 
+into Virtual Labs experiments. 
+4.​ Low-Code or No-Code Platforms: 
+○​ Create drag-and-drop platforms or AI-assisted templates that allow 
+non-technical users to develop experiments with minimal coding. 
+ 
+Expectations: 
+Participants must provide: 
+●​ A detailed architecture diagram or proof-of-concept (PoC) demonstrating the 
+proposed solution. 
+●​ A justification report explaining how the solution addresses the hackathon goals. 
+●​ Quantitative and qualitative metrics comparing existing and proposed solutions. 
+●​ A meticulous documentation of resources used (website links, research papers, AI 
+chatbot references, etc.). 
+●​ A summary highlighting the innovation, uniqueness, and completeness of the 
+solution. 
+ 
+Deliverables: 
+First Round: 
+●​ Presentation: A summary of the approach, solution, and justification. 
+FInal Round: 
+●​ Architecture diagram or Proof-of-Concept (PoC): A redesigned interface covering all 
+major components (layouts, navigation, buttons, pop-ups, labels, etc.). 
+●​ Justification Report: A document explaining how the redesign improves user 
+engagement and accessibility, including quantified metrics comparing the old and new 
+UI. 
+●​ Methodology Documentation: A detailed list of all resources used, including research 
+papers, web links, GenAI chatbot interactions, and any other references. 
+●​ Presentation: A summary of the approach, solution, and justification. 
+●​ Demo: A functional implementation showcasing the redesign in action. 
+●​ All Artifacts: Including code, component designs, and related assets. 
+ 
+
+Evaluation Criteria:​
+Submissions will be judged on the following criteria: 
+1.​ Creativity (Primary): Originality and innovativeness of the approach. 
+2.​ Feasibility: The practicality of implementing the solution in the Virtual Labs ecosystem. 
+3.​ Scalability: Potential for expanding the solution to a broader range of experiments or 
+content types. 
+4.​ Relevance: Alignment with the goals of enhancing quality and increasing number of 
+experiments. 
+ 
+Objective:​
+The goal of this hackathon is to  transform the Virtual Labs platform into a more scalable, 
+sustainable, and impactful ecosystem for educational experiments. Empower educators, SMEs, 
+and content developers to easily create high-quality experiments that enhance learning 
+outcomes for students across India. 
+
