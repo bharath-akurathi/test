@@ -1,0 +1,421 @@
+ 
+ 
+ 
+There are usually random questions asked. 
+1. swiping Program 
+like a=50; 
+b=10; 
+output:- b=50, and a =10 
+Answer: Solution 
+2. sort array without the use of a sort function 
+input :-var a= [1,2,5,3,4,6,7,8]; 
+output :-var a=[1,2,3,4,5,6,7,8]; 
+Answer: Solution 
+3. write a program that generates 50 prime number 
+example of prime number is :- 2,3,5,7,9,11,13,17,19,23,29…. 
+Answer: Solution 
+4. reverse string without loop or predefined function(like 
+reverse) 
+Like: var name =”shirsh” 
+after reverse: var name =”hsrihs” 
+Answer: Solution 
+Top 100 Interview 
+Programming questions, that 
+help you to get a job 
+
+5. Create and Add a two matrix 2x2 or 3x3. 
+Answer: Solution 
+6. Count repeated items in a String. 
+Like: var name =” Shirsh” 
+so, “s”=2 times, “h”=2 times, “i”=1 time, “r”= 1 time 
+Answer: Solution 
+7. how to check the name of the number in English? 
+For: if I assign any variable:- var num =121 
+so print this number in English letter, means on console print 
+result is -: 
+“one hundred twenty-one” 
+Answer: Solution 
+8. How to get the matching characters and non-matching 
+characters in a string. 
+Example:- 
+Input: str1 = “abcdef”, str2 = “defghia” 
+Output: 4 
+Matching characters are: a, d, e, f 
+Answer: Solution 
+9. How to calculate the number of vowels and consonants in a 
+string? 
+Answer: Solution 
+10. 
+Determine the factors of a number. 
+Answer: Solution 
+
+11. Compute the first Ten Fibonacci numbers. 
+Answer: Solution 
+12. 
+How to get the third node of a linked list? 
+Answer: Solution 
+13. 
+How to search for a specific value in a linked list? 
+Answer: Solution 
+14. 
+How to remove special characters in a string that is in 
+lowercase? 
+Answer: Solution 
+15. 
+How to find multiple missing numbers in a given integer 
+array with duplicates? 
+Answer: Solution 
+16. 
+How to find all permutations of String? 
+Answer: Solution 
+17. writes a program for Sudoku. 
+Answer: Solution 
+18. 
+How to check if a given number is a Palindrome? 
+Answer: Solution 
+19. 
+How to calculate the average of all numbers in a given 
+array? 
+Answer: Solution 
+20. 
+Write a Program to check if a given year is a leap year. 
+Answer: Solution 
+
+21. 
+Write Program to check whether the number is 
+Palindrome or not. 
+Answer: Solution 
+22. 
+Write a Program to check whether the number is a 
+Narcissistic number or not. 
+Answer: Solution 
+23. 
+Write a Program to print all numbers of a list in a random 
+manner and all numbers should be only one, without using any 
+pre-defined function. 
+input :- a= [1,2,5,3,4,6,7,8,8,8,8,9,9,9]; 
+output :- a = [2,4,9,7,1,3,6,5,8]; 
+Answer: if you have Please comment below. 
+24. 
+Find the Fastest way to find an index of elements in a list. 
+(ex:-binary search) 
+input :- var list =[1,2,3,4,5,6,7,8,9,10,11,12,13,14]; 
+var numFind =2; 
+output:- 1 Index 
+Answer:- Solution 
+25. 
+Find the sum of all natural numbers without using any 
+regression or any loop. 
+Answer:- Solution 
+26. 
+Find the nearest smaller numbers on the left side in an 
+array. 
+Answer:- Solution 
+
+27. 
+Find the minimum number of coins that make a given 
+value. 
+Input: V = 70 
+Output: 2 
+We need a 50 Rs note and a 20 Rs note. 
+Answer:- Solution 
+28. 
+Find the index of two array elements whose sum is equal 
+to the given value 
+Coding interview questions for arrays 
+1. How do remove duplicates from a given array? 
+(solution) 
+2. How do you search for a target value in a rotated array? 
+(solution) 
+3. How do you find the missing number in a given integer array 
+of 1 to 100? (solution) 
+4. How do you find the duplicate number on a given integer 
+array? 
+(solution) 
+5. How do you find the largest and smallest number in an 
+unsorted integer array? 
+(solution) 
+
+6. How do you find all pairs of an integer array whose sum is 
+equal to a given number? 
+(solution) 
+7. How do you remove duplicates from an array in place? 
+(solution) 
+8. How to rotate an array left and right by a given number K? 
+(solution) 
+9. How do you find duplicates from an unsorted array? 
+(solution) 
+10. 
+Given an array of integers sorted in ascending order, find 
+the starting and ending position of a given value. 
+(solution) 
+11. Given an unsorted array of integers, find the length of the 
+longest consecutive elements sequence. 
+(solution) 
+12. 
+How is an integer array sorted in place using the quicksort 
+algorithm? (solution) 
+13. 
+Given an integer array, find the contiguous subarray 
+(containing at least one number) which has the largest sum 
+and return its sum. 
+(solution) 
+14. 
+How do you reverse an array in place in Java? 
+(solution) 
+
+15. 
+How are duplicates removed from an array without using 
+any library? (solution) 
+16. 
+How to convert a byte array to a String? 
+(solution) 
+17. What is the difference between an array and a linked list? 
+(solution) 
+18. 
+How do you perform a binary search in a given array? 
+(solution) 
+19. 
+How to find a median of two sorts of arrays? 
+(solution) 
+20. 
+How do you find duplicate numbers in an array if it 
+contains multiple duplicates? 
+(solution) 
+Coding interview questions about linked lists 
+1. How do you reverse a linked list? 
+(solution) 
+2. How to add an element in the middle of the linked list? 
+(solution) 
+3. How to find the node at which the intersection of two singly 
+linked lists begins. 
+(solution) 
+
+4. How to check if a given linked list is a palindrome or not? 
+(solution) 
+5. How do you find the middle element of a singly linked list in 
+one pass? (solution) 
+6. How do you check if a given linked list contains a cycle? How 
+do you find the starting node of the cycle? 
+(solution) 
+7. How do you find the third node from the end in a singly linked 
+list? (solution) 
+8. How do you find the sum of two linked lists using Stack? 
+(solution) 
+9. How to Delete all occurrences of a given key in a linked list? 
+(solution) 
+10. 
+How do you reverse a linked list? 
+(solution) 
+11. How do you sort a linked list in Java? 
+(solution) 
+12. 
+What is the difference between the array and linked list? 
+(Solution) 
+13. 
+How to remove Nth Node from the end of a linked list? 
+(solution) 
+
+14. 
+How to merge two sorted linked lists? 
+(solution) 
+15. 
+How to convert a sorted list to a binary search tree? 
+(solution) 
+16. 
+Given a linked list and a value x, partition it such that all 
+nodes less than x come before nodes greater than or equal to x. 
+(solution) 
+17. How to remove duplicates from a sorted linked list? 
+(solution) 
+18. 
+How do you reverse a singly linked list without recursion? 
+(solution) 
+19. 
+How are duplicate nodes removed in an unsorted linked 
+list? 
+(solution) 
+20. 
+How do you find the length of a singly linked list? 
+(solution) 
+Coding interview questions for strings 
+1. How do you reverse a given string in place? 
+(solution) 
+2. How do you print duplicate characters from a string? 
+(solution) 
+
+3. How do you check if two strings are anagrams of each other? 
+(solution) 
+4. How do you find all the permutations of a string? 
+(solution) 
+5. How can a given string be reversed using recursion? 
+(solution) 
+6. How do you check if a string contains only digits? 
+(solution) 
+7. How do you find duplicate characters in a given string? 
+(solution) 
+8. How do you count the number of vowels and consonants in a 
+given string? (solution) 
+9. How do you count the occurrence of a given character in a 
+string? (solution) 
+10. 
+How do you print the first non-repeated character from a 
+string? 
+(solution) 
+11. How do you convert a given String into int like the atoi()? 
+(solution) 
+12. 
+How do you reverse words in a given sentence without 
+using any library method? 
+(solution) 
+
+13. 
+How do you check if two strings are a rotation of each 
+other? 
+(solution) 
+14. 
+How do you check if a given string is a palindrome? 
+(solution) 
+15. 
+How to find the length of the longest substring without 
+repeating characters? 
+(solution) 
+16. 
+Given a string, find the maximum length contiguous 
+substring of it that is also a palindrome. For example, the 
+longest palindromic substring of “bananas” is “anana”, and the 
+longest palindromic substring of “abdcbcdbdcbbc” is 
+“bdcbcdb”. 
+(solution) 
+17. How to convert a byte array to a String? 
+(solution) 
+18. 
+how do remove the duplicate character from String? 
+(solution) 
+19. 
+How to find the maximum occurring character in a given 
+String? (solution) 
+20. 
+How do you remove a given character from a String? 
+(solution) 
+Coding interview questions for Binary Tree 
+
+1. How do you implement a postorder traversal algorithm? 
+(solution) 
+2. How do you traverse a binary tree in postorder traversal 
+without recursion? 
+(solution) 
+3. How are all leaves of a binary search tree printed? 
+(solution) 
+4. How do you count the number of leaf nodes in a given binary 
+tree? (solution) 
+5. You have given a BST, where two nodes are swapped? How do 
+you recover the original BST? 
+(solution) 
+6. How is a binary search tree implemented? 
+(solution) 
+7. How do you perform preorder traversal in a given binary tree? 
+(solution) 
+8. How do you traverse a given binary tree in preorder without 
+recursion? (solution) 
+9. How do you perform an inorder traversal in a given binary 
+tree? 
+(solution) 
+
+10. 
+How do you print all nodes of a given binary tree using 
+inorder traversal without recursion? 
+(solution) 
+11. How do you convert a binary tree to a binary search tree? 
+(solution) 
+12. 
+Find the largest BST subtree of a given binary tree. 
+(solution) 
+13. 
+Write a program to connect nodes at the same level as a 
+binary tree. (solution) 
+14. 
+What is a Trie data structure? 
+(solution) 
+15. 
+How do you perform a binary search in a given array? 
+(solution) 
+16. 
+How to Convert a given Binary Tree to a Doubly Linked 
+List? 
+(solution) 
+17. Write a Program to Find the Maximum Depth or Height of a 
+Tree. 
+(solution) 
+18. 
+What is the difference between binary and binary search 
+trees? 
+(solution) 
+
+19. 
+What is a Self-Balancing Binary Search Trees? 
+(solution) 
+20. 
+What is the AVL Tree? 
+(solution) 
+Coding interview questions for Graph 
+1. Print Adjacency List for a Directed Graph. 
+(solution) 
+2. what is the Difference between BFS and DFS? 
+(solution) 
+3. Write a to Count all possible paths between two vertices. 
+(solution) 
+4. Find the minimum number of throws required to win a given 
+Snakes and Ladders board game. 
+(solution) 
+5. Find a Word in a 2D Grid of characters. 
+(solution) 
+6. Find the Distance of the nearest cell having 1 in a binary 
+matrix. 
+(solution) 
+7. Find the number of islands. 
+(solution) 
+
+8. Find a Mother Vertex in a Graph. 
+(solution) 
+9. Implement Dijkstra’s Algorithm 
+(solution) 
+10. 
+Find the most similar path in a graph. 
+(solution) 
+11. Given a sorted dictionary of an alien language, find the order 
+of characters. 
+(solution) 
+12. 
+Check whether a given graph is Bipartite or not. 
+(solution) 
+13. 
+Keys and Rooms question. 
+(solution) 
+14. 
+question on Articulation Points (or Cut Vertices) in a 
+Graph. 
+(solution) 
+15. 
+Tarjan’s Algorithm to find Strongly Connected 
+Components. 
+(solution) 
+16. 
+How to find all bridges in a graph? 
+(solution) 
+17. what is Maximum Bipartite Matching? 
+(solution) 
+
+18. 
+Find all possible worlds in a board of characters(Boggle) 
+(solution) 
+19. 
+Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if 
+surrounded by ‘X’. 
+(solution) 
+20. 
+find the Shortest path to reach one prime to another by 
+changing a single digit at a time. 
+(solution) 
+ 
+
