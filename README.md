@@ -74,26 +74,6 @@ git push origin main
 
 ---
 
-## **🔧 Troubleshooting**  
-
-❌ **Backend Not Starting?**  
-Run:  
-```bash
-python3 backend.py
-```
-
-❌ **Git Not Pushing Files?**  
-Make sure you have write access to the repository and try:  
-```bash
-cd /path/to/test
-git status
-git add .
-git commit -m "Fixed file upload issue"
-git push origin main
-```
-
----
-
 ## **🎯 Contributing**  
 Feel free to **fork** this repo, submit **pull requests**, and improve the app! 🚀  
 
